@@ -5,7 +5,6 @@
 #include <esp_log.h>
 #include "esp32-hal-log.h" 
 #include <WiFiClientSecure.h>
-#include "ESPAsyncWebServer.h"
 #include "sensorsConf.h"
 #include <numeric>
 #include <WiFi.h>
